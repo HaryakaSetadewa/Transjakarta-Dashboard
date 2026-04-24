@@ -2,10 +2,10 @@
 
 Analisis Spasial Distribusi Halte Bus dan Aksesibilitas Layanan Transjakarta di Jakarta
 
-!\[Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
-!\[ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat\&logo=arcgis\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat\&logo=arcgis\&logoColor=white)
 
-\---
+---
 
 ## Tentang Project
 
@@ -13,7 +13,7 @@ Project ini lahir dari ketertarikan saya terhadap isu aksesibilitas transportasi
 
 Dengan menggabungkan **analisis spasial di ArcGIS** dan **visualisasi interaktif di Power BI**, saya membangun dashboard yang tidak hanya menampilkan angka, tetapi menceritakan realita ketimpangan akses transportasi antar wilayah di Jakarta.
 
-\---
+---
 
 ## Objective
 
@@ -22,7 +22,7 @@ Dengan menggabungkan **analisis spasial di ArcGIS** dan **visualisasi interaktif
 * **Gap Identification:** Mengidentifikasi kelurahan dengan aksesibilitas kritis yang membutuhkan intervensi prioritas.
 * **Strategic Recommendation:** Menyusun rekomendasi berbasis data untuk peningkatan layanan Mikrotrans dan integrasi TOD.
 
-\---
+---
 
 ## Skills \& Tech Stack
 
@@ -32,7 +32,7 @@ Dengan menggabungkan **analisis spasial di ArcGIS** dan **visualisasi interaktif
 |**Power BI Desktop**|Pembuatan dashboard interaktif dengan Shape Map, conditional formatting, dan DAX measures|
 |**DAX**|Kalkulasi coverage rate per kelurahan, segmentasi kategori akses, dan dynamic KPI metrics|
 
-\---
+---
 
 ## Alur Kerja: Dari Data Spasial ke Dashboard
 
@@ -58,7 +58,7 @@ Dua halaman dashboard dibangun dengan pendekatan *clean design* — mengutamakan
 
 Memberikan gambaran makro distribusi layanan Transjakarta di seluruh Jakarta.
 
-!\[Page 1 Overview](screenshots/page1\_overview.png)
+![Page 1 Overview](screenshots/page1\_overview.png)
 
 **Summary**
 Halaman ini berfungsi sebagai *service pulse* jaringan Transjakarta, menjawab pertanyaan mendasar: apakah distribusi 258 halte yang ada sudah mencerminkan pemerataan layanan, ataukah masih terpusat di area tertentu saja?
@@ -77,7 +77,7 @@ Halaman ini berfungsi sebagai *service pulse* jaringan Transjakarta, menjawab pe
 * Distribusi halte sangat terkonsentrasi di pusat kota, menciptakan ketimpangan spasial yang signifikan
 * Rata-rata coverage rate hanya **25.09%** — jauh di bawah target minimum 40%
 
-\---
+---
 
 ### Page 2 — Accessibility \& Walking Analysis
 
@@ -103,7 +103,7 @@ Coverage rate menunjukkan seberapa luas area yang terlayani, tetapi tidak menjaw
 |Moderate|500m – 1km|Masih terjangkau namun perlu perhatian|
 |Not Accessible|> 1km|Membutuhkan intervensi prioritas|
 
-\---
+---
 
 ## Key Insights \& Rekomendasi
 
@@ -121,11 +121,11 @@ Kelurahan dengan coverage di bawah **10%** dan walking distance di atas **1km** 
 **4. Potensi TOD**
 Kelurahan dengan kepadatan tinggi namun aksesibilitas rendah adalah kandidat ideal untuk pengembangan integrasi *first/last-mile* berbasis Transit-Oriented Development.
 
-\---
+---
 
 ## Author
 
-**Haryaka Setadewa**
+**Putu Haryaka Seta Dewa**
 
 * GitHub: [@HaryakaSetadewa](https://github.com/HaryakaSetadewa)
 
