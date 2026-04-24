@@ -1,0 +1,259 @@
+﻿OID_,periode_data,wilayah,kecamatan,kelurahan,nama_halte,lokasi,koordinat_x,koordinat_y
+1,2024,Kota Adm. Jakarta Pusat,Gambir,Gambir,Harmoni,Jalan Hayam Wuruk,-6.162687000000000,106.819919999999996
+2,2024,Kota Adm. Jakarta Barat,Taman Sari,Taman Sari,Sawah Besar,Jalan Hayam Wuruk,-6.157368000000000,106.818661000000006
+3,2024,Kota Adm. Jakarta Selatan,Tebet,Tebet,Timur St. Manggarai,Jalan Manggarai Utara II,-6.209745000000000,106.850673000000000
+4,2024,Kota Adm. Jakarta Utara,Tanjung Priok,Tanjung Priok,Jakarta International Stadium,Jalan Danau Sunter Utara,-6.126689000000000,106.855865100000003
+5,2024,Kota Adm. Jakarta Barat,Taman Sari,Taman Sari,Mangga Besar,Jalan Gajah Mada,-6.153250000000000,106.817536000000004
+6,2024,Kota Adm. Jakarta Timur,Cawang,Kramat Jati,Cawang,Jalan Letnan Jenderal MT Haryono,-6.245863000000000,106.871143000000004
+7,2024,Kota Adm. Jakarta Barat,Taman Sari,Taman Sari,Taman Sari,Jalan Hayam Wuruk,-6.149300000000000,106.816689999999994
+8,2024,Kota Adm. Jakarta Barat,Taman Sari,Taman Sari,Glodok,Jalan Hayam Wuruk,-6.143393000000000,106.815135999999995
+9,2024,Kota Adm. Jakarta Barat,Taman Sari,Taman Sari,Kota,Jalan Gajah Mada,-6.136790000000000,106.814903999999999
+10,2024,Kota Adm. Jakarta Selatan,Setiabudi,Setiabudi,Galunggung,Jalan Galunggung,-6.204399000000000,106.823380999999998
+11,2024,Kota Adm. Jakarta Pusat,Senen,Senen,Tanah Tinggi,Jalan Tanah Tinggi Barat,-6.171373000000000,106.852188499999997
+12,2024,Kota Adm. Jakarta Utara,Tanjung Priok,Tanjung Priok,Danau Sunter,Jalan Danau Sunter Barat,-6.141210000000000,106.856989999999996
+13,2024,Kota Adm. Jakarta Utara,Tanjung Priok,Tanjung Priok,Jembatan Item,Jalan Danau Sunter Utara,-6.130980000000000,106.855149999999995
+14,2024,Kota Adm. Jakarta Pusat,Kemayoran,Kemayoran,Kemayoran,Jalan Benyamin Sueb,-6.158890000000000,106.851510000000005
+15,2024,Kota Adm. Jakarta Pusat,Tanah Abang,Tanah Abang,Bendungan Hilir,Jalan Jenderal Sudirman,-6.217137000000000,106.815282999999994
+16,2024,Kota Adm. Jakarta Selatan,Setiabudi,Setiabudi,Rasuna Said,Jalan Hajjah R. Rasuna Said,-6.221618000000000,106.832245000000000
+17,2024,Kota Adm. Jakarta Barat,Grogol Petamburan,Grogol Petamburan,Grogol,Jalan Kyai Tapa,-6.166824000000000,106.789704999999998
+18,2024,Kota Adm. Jakarta Barat,Grogol Petamburan,Grogol Petamburan,Grogol Reformasi,Jalan S Parman,-6.167170000000000,106.788179999999997
+19,2024,Kota Adm. Jakarta Utara,Pademangan,Pademangan,Gunung Sahari,Jalan Gunung Sahari Raya,-6.136817000000000,106.832367000000005
+20,2024,Kota Adm. Jakarta Selatan,Setiabudi,Setiabudi,Halimun,Jalan Galunggung,-6.205137000000000,106.833382999999998
+21,2024,Kota Adm. Jakarta Selatan,Pancoran,Pancoran,Warung Buncit,Jalan Haji Tutty Alawiyah,-6.256977000000000,106.828078000000005
+22,2024,Kota Adm. Jakarta Timur,Jatinegara,Jatinegara,Flyover Cipinang,Jalan Haji Darip,-6.214632000000000,106.882267999999996
+23,2024,Kota Adm. Jakarta Barat,Kebon Jeruk,Kebon Jeruk,Damai,Jalan Daan Mogot,-6.163376000000000,106.775143000000000
+24,2024,Kota Adm. Jakarta Pusat,Gambir,Sawah Besar,Istiqlal,Jalan Perwira,-6.172252000000000,106.830932000000004
+25,2024,Kota Adm. Jakarta Pusat,Tanah Abang,Tanah Abang,Transjakarta Tanah Abang 1,Jalan Jatibaru,-6.185496000000000,106.811049999999994
+26,2024,Kota Adm. Jakarta Selatan,Pasar Minggu,Pasar Minggu,Jati Padang,Jalan Warung Jati Barat,-6.285431000000000,106.826263999999995
+27,2024,Kota Adm. Jakarta Timur,Jatinegara,Jatinegara,Jatinegara,Jalan Jatinegara Timur,-6.221412000000000,106.868071000000000
+28,2024,Kota Adm. Jakarta Barat,Grogol Petamburan,Grogol Petamburan,Jelambar,Jalan Daan Mogot,-6.166548000000000,106.786505000000005
+29,2024,Kota Adm. Jakarta Barat,Cengkareng,Cengkareng,Jembatan Baru,Jalan Daan Mogot,-6.154831000000000,106.730378000000002
+30,2024,Kota Adm. Jakarta Barat,Tambora,Tambora,Jembatan Besi,Jalan Profesor Doktor Latumeten,-6.152005000000000,106.794900999999996
+31,2024,Kota Adm. Jakarta Barat,Tambora,Tambora,Jembatan Dua,Jalan Jembatan Dua Flyover,-6.143279000000000,106.793515999999997
+32,2024,Kota Adm. Jakarta Barat,Cengkareng,Cengkareng,Jembatan Gantung,Jalan Daan Mogot,-6.155513000000000,106.749464000000003
+33,2024,Kota Adm. Jakarta Pusat,Sawah Besar,Sawah Besar,Jembatan Merah,Jalan Gunung Sahari Raya,-6.146731000000000,106.834273999999994
+34,2024,Kota Adm. Jakarta Utara,Penjaringan,Penjaringan,Jembatan Tiga,Jalan Jembatan Tiga Raya,-6.133383000000000,106.792665999999997
+35,2024,Kota Adm. Jakarta Utara,Pademangan,Pademangan,JIEXPO Kemayoran,Jalan Pesanggrahan Raya,-6.144845000000000,106.848645000000005
+36,2024,Kota Adm. Jakarta Selatan,Pesanggrahan,Pesanggrahan,JORR,Jalan Ciledug Raya,-6.236104000000000,106.754880000000000
+37,2024,Kota Adm. Jakarta Pusat,Sawah Besar,Sawah Besar,Juanda,Jalan Insinyur Haji Juanda,-6.168048000000000,106.830884999999995
+38,2024,Kota Adm. Jakarta Barat,Tambora,Tambora,Kali Besar,Jalan Kali Besar Timur,-6.135355000000000,106.811431999999996
+39,2024,Kota Adm. Jakarta Barat,Kalideres,Kalideres,Kalideres,Jalan Madrasah Raya,-6.154412000000000,106.705502999999993
+40,2024,Kota Adm. Jakarta Timur,Jatinegara,Jatinegara,Kampung Melayu,Jalan Jenderal Basuki Rahmat,-6.224673000000000,106.866821000000002
+41,2024,Kota Adm. Jakarta Timur,Ciracas,Rambutan,Kampung Rambutan,Jalan Terminal Kampung Rambutan,-6.309885000000000,106.882154999999997
+42,2024,Kota Adm. Jakarta Timur,Duren Sawit,Duren Sawit,Kampung Sumur,Jalan I Gusti Ngurah Rai,-6.214412000000000,106.911884999999998
+43,2024,Kota Adm. Jakarta Selatan,Setiabudi,Setiabudi,Karet Kuningan,Jalan Hajjah R. Rasuna Said,-6.216670000000000,106.830736999999999
+44,2024,Kota Adm. Jakarta Pusat,Tanah Abang,Tanah Abang,Polda Metro Jaya,Jalan Jenderal Sudirman,-6.221094000000000,106.810278999999994
+45,2024,Kota Adm. Jakarta Timur,Pulo Gadung,Cempaka Putih,Kayu Putih Rawasari,Jalan Ahmad Yani,-6.187453000000000,106.875416999999999
+46,2024,Kota Adm. Jakarta Selatan,Kebayoran Lama,Kebayoran Lama,Kebayoran Lama,Jalan Ciledug Raya,-6.238340000000000,106.777514999999994
+47,2024,Kota Adm. Jakarta Selatan,Kebayoran Lama,Kebayoran Lama,Bungur,Jalan Sultan Iskandar Muda,-6.252688000000000,106.781642000000005
+48,2024,Kota Adm. Jakarta Barat,Kebon Jeruk,Kebon Jeruk,Kebon Jeruk,Jalan Panjang Raya,-6.194311000000000,106.768873999999997
+49,2024,Kota Adm. Jakarta Timur,Jatinegara,Jatinegara,Matraman Baru,Jalan Matraman,-6.212880000000000,106.861152000000004
+50,2024,Kota Adm. Jakarta Barat,Kebon Jeruk,Kebon Jeruk,Kedoya Panjang,Jalan Panjang Raya,-6.174495000000000,106.765854000000004
+51,2024,Kota Adm. Jakarta Barat,Kebon Jeruk,Kebon Jeruk,Kedoya,Jalan Panjang Raya,-6.164435000000000,106.763013000000001
+52,2024,Kota Adm. Jakarta Barat,Kebon Jeruk,Kebon Jeruk,Kelapa Dua Sasak,Jalan Panjang Raya,-6.205551000000000,106.769525999999999
+53,2024,Kota Adm. Jakarta Utara,Pademangan,Pademangan,Landasan Pacu,Jalan Haji Bagindo Rajo Motik,-6.152181000000000,106.854237999999995
+54,2024,Kota Adm. Jakarta Selatan,Setiabudi,Setiabudi,Denpasar Arah Timur,Jalan Gatot Subroto,-6.232602000000000,106.821619999999996
+55,2024,Kota Adm. Jakarta Pusat,Senen,Senen,Kramat Sentiong,Jalan Kramat Raya,-6.187980000000000,106.845950999999999
+56,2024,Kota Adm. Jakarta Selatan,Setiabudi,Mampang Prapatan,Simpang Kuningan,Jalan Gatot Subroto,-6.237250000000000,106.827939999999998
+57,2024,Kota Adm. Jakarta Selatan,Setiabudi,Setiabudi,Kuningan Madya,Jalan Hajjah R. Rasuna Said,-6.213414000000000,106.830472000000000
+58,2024,Kota Adm. Jakarta Selatan,Setiabudi,Setiabudi,Underpass Kuningan,Jalan Hajjah R. Rasuna Said,-6.234731000000000,106.829014999999998
+59,2024,Kota Adm. Jakarta Pusat,Senen,Senen,Kwitang,Jalan Prajurit Kko Usman & Harun,-6.181051000000000,106.838660000000004
+60,2024,Kota Adm. Jakarta Utara,Penjaringan,Penjaringan,Pluit Selatan,Jalan Pluit Selatan Raya,-6.125258000000000,106.799713999999994
+61,2024,Kota Adm. Jakarta Pusat,Menteng,Menteng,Flyover Kuningan,Jalan Purworejo,-6.202761000000000,106.827706000000006
+62,2024,Kota Adm. Jakarta Selatan,Mampang Prapatan,Mampang Prapatan,Denpasar Arah Barat,Jalan Jenderal Gatot Subroto,-6.233551000000000,106.822084000000004
+63,2024,Kota Adm. Jakarta Selatan,Setiabudi,Setiabudi,Widya Chandra Telkomsel Arah Timur,Jalan Gatot Subroto,-6.226549000000000,106.817400000000006
+64,2024,Kota Adm. Jakarta Timur,Pulo Gadung,Pulo Gadung,Layur,Jalan Pemuda,-6.193539000000000,106.899090000000001
+65,2024,Kota Adm. Jakarta Selatan,Cilandak,Cilandak,Lebak Bulus,Jalan Raya Pasar Jumat,-6.289413000000000,106.774151000000003
+66,2024,Kota Adm. Jakarta Selatan,Mampang Prapatan,Mampang Prapatan,Mampang Prapatan,Jalan Mampang Prapatan Raya,-6.242699000000000,106.825716999999997
+67,2024,Kota Adm. Jakarta Pusat,Sawah Besar,Sawah Besar,Mangga Dua,Jalan Mangga Dua Raya,-6.136148000000000,106.825968000000003
+68,2024,Kota Adm. Jakarta Selatan,Setiabudi,Menteng,Manggarai,Jalan Sultan Agung,-6.208880000000000,106.847391000000002
+69,2024,Kota Adm. Jakarta Pusat,Tanah Abang,Tanah Abang,Karet,Jalan Jenderal Sudirman,-6.212457000000000,106.820031000000000
+70,2024,Kota Adm. Jakarta Timur,Matraman,Matraman,Matraman,Jalan Matraman,-6.199980000000000,106.854428999999996
+71,2024,Kota Adm. Jakarta Pusat,Senen,Senen,Flyover Pramuka,Flyover Pramuka Matraman,-6.198910000000000,106.854495999999997
+72,2024,Kota Adm. Jakarta Selatan,Kebayoran Baru,Kebayoran Baru,Mayestik,Jalan Kyai Maja,-6.241921000000000,106.790767000000002
+73,2024,Kota Adm. Jakarta Pusat,Tanah Abang,Tanah Abang,Dukuh Atas,Jalan Jenderal Sudirman,-6.205702000000000,106.822225000000003
+74,2024,Kota Adm. Jakarta Barat,Taman Sari,Taman Sari,Museum Sejarah Jakarta,Jalan Kunir,-6.133930000000000,106.812088000000003
+75,2024,Kota Adm. Jakarta Pusat,Menteng,Menteng,Tosari,Jalan Jenderal Sudirman,-6.196892000000000,106.823092000000003
+76,2024,Kota Adm. Jakarta Utara,Pademangan,Pademangan,Pademangan,Jalan Gunung Sahari Raya,-6.133704000000000,106.831637000000001
+77,2024,Kota Adm. Jakarta Utara,Penjaringan,Penjaringan,Pakin,Jalan Gedong Panjang,-6.127982000000000,106.804743000000002
+78,2024,Kota Adm. Jakarta Pusat,Senen,Senen,Pal Putih,Jalan Kramat Raya,-6.184631000000000,106.844024000000005
+79,2024,Kota Adm. Jakarta Selatan,Mampang Prapatan,Kebayoran Baru,Widya Chandra Telkomsel Arah Barat,Jalan Jenderal Gatot Subroto,-6.227392000000000,106.817627999999999
+80,2024,Kota Adm. Jakarta Barat,Grogol Petamburan,Grogol Petamburan,Kali Grogol Arah Utara,Jalan Prof. Dr. Latumenten,-6.161060000000000,106.790396999999999
+81,2024,Kota Adm. Jakarta Selatan,Tebet,Pancoran,Pancoran Tugu,Jalan MT Haryono,-6.243300000000000,106.843879999999999
+82,2024,Kota Adm. Jakarta Barat,Taman Sari,Taman Sari,Mangga Dua Raya,Jalan Mangga Dua Raya,-6.137611000000000,106.817918000000006
+83,2024,Kota Adm. Jakarta Pusat,Sawah Besar,Sawah Besar,Pasar Baru,Jalan Pos,-6.166129000000000,106.834834000000001
+84,2024,Kota Adm. Jakarta Pusat,Kemayoran,Sawah Besar,Pasar Baru Timur,Jalan Gunung Sahari Raya,-6.162272000000000,106.838114000000004
+85,2024,Kota Adm. Jakarta Pusat,Cempaka Putih,Cempaka Putih,Pasar Cempaka Putih,Jalan Letnan Jenderal Suprapto,-6.172325000000000,106.862454999999997
+86,2024,Kota Adm. Jakarta Timur,Jatinegara,Jatinegara,Pasar Enjo,Jalan Haji Darip,-6.214881000000000,106.878193999999993
+87,2024,Kota Adm. Jakarta Pusat,Cempaka Putih,Cempaka Putih,Pasar Genjing,Jalan Pramuka,-6.194446000000000,106.860915000000006
+88,2024,Kota Adm. Jakarta Timur,Kramat Jati,Rambutan,Pasar Induk,Jalan Raya Bogor,-6.294215000000000,106.872032000000004
+89,2024,Kota Adm. Jakarta Timur,Jatinegara,Jatinegara,Bali Mester,Jalan Jatinegara Timur,-6.215744000000000,106.866318000000007
+90,2024,Kota Adm. Jakarta Selatan,Kebayoran Lama,Kebayoran Lama,Kebayoran,Jalan Teuku Nyak Arief,-6.238413000000000,106.783229000000006
+91,2024,Kota Adm. Jakarta Timur,Kramat Jati,Kramat Jati,Kramat Jati,Jalan Raya Bogor,-6.268822000000000,106.866631999999996
+92,2024,Kota Adm. Jakarta Timur,Pulo Gadung,Pulo Gadung,Pasar Pulo Gadung,Jalan Bekasi Raya,-6.187434000000000,106.905912999999998
+93,2024,Kota Adm. Jakarta Selatan,Setiabudi,Setiabudi,Pasar Rumput,Jalan Sultan Agung,-6.207125000000000,106.841117999999994
+94,2024,Kota Adm. Jakarta Selatan,Setiabudi,Setiabudi,Patra Kuningan,Jalan Hajjah R. Rasuna Said,-6.232677000000000,106.832087000000001
+95,2024,Kota Adm. Jakarta Pusat,Gambir,Gambir,Pecenongan,Jalan Insinyur Haji Juanda,-6.167710000000000,106.828190000000006
+96,2024,Kota Adm. Jakarta Timur,Jatinegara,Jatinegara,Pedati Prumpung,Jalan DI Panjaitan,-6.220160000000000,106.874386000000001
+97,2024,Kota Adm. Jakarta Timur,Pulo Gadung,Pulo Gadung,Pedongkelan,Jalan Perintis Kemerdekaan,-6.167962000000000,106.882463999999999
+98,2024,Kota Adm. Jakarta Selatan,Pasar Minggu,Pasar Minggu,Pejaten,Jalan Buncit Raya,-6.278404000000000,106.829723999999999
+99,2024,Kota Adm. Jakarta Timur,Pulo Gadung,Pulo Gadung,Pemuda Pramuka,Jembatan Penyebrangan Orang Pemuda Pramuka,-6.192795000000000,106.874978999999996
+100,2024,Kota Adm. Jakarta Timur,Pulo Gadung,Pulo Gadung,Pemuda Rawamangun,Jalan Pemuda,-6.193488000000000,106.891649999999998
+101,2024,Kota Adm. Jakarta Timur,Jatinegara,Jatinegara,Halim,Jalan DI Panjaitan,-6.239070000000000,106.878000000000000
+102,2024,Kota Adm. Jakarta Timur,Cakung,Penggilingan,Penggilingan,Penggilingan Raya,-6.214132000000000,106.939609000000004
+103,2024,Kota Adm. Jakarta Utara,Penjaringan,Penjaringan,Penjaringan,Jalan Pluit Selatan Raya,-6.126306000000000,106.792026000000007
+104,2024,Kota Adm. Jakarta Utara,Tanjung Priok,Koja,Koja,Jalan Yos Sudarso,-6.114130000000000,106.893090000000001
+105,2024,Kota Adm. Jakarta Selatan,Kebayoran Lama,Kebayoran Lama,Permata Hijau,Jalan Letnan Jenderal Soepeno,-6.221427000000000,106.783246000000005
+106,2024,Kota Adm. Jakarta Barat,Kebon Jeruk,Kebon Jeruk,Arteri,Jalan Arteri Pos Pengumben,-6.218401000000000,106.777613000000002
+107,2024,Kota Adm. Jakarta Timur,Duren Sawit,Duren Sawit,Flyover Pondok Kopi,Jalan I Gusti Ngurah Rai,-6.216689000000000,106.930539999999993
+108,2024,Kota Adm. Jakarta Barat,Kalideres,Kalideres,Pesakih,Jalan Daan Mogot,-6.154803000000000,106.715266000000000
+109,2024,Kota Adm. Jakarta Pusat,Gambir,Gambir,Petojo,Jalan Suryopranoto,-6.169984000000000,106.816982999999993
+110,2024,Kota Adm. Jakarta Timur,Kramat Jati,Cililitan,Cililitan,Jalan Mayor Jenderal Sutoyo,-6.262494000000000,106.866352000000006
+111,2024,Kota Adm. Jakarta Timur,Kramat Jati,Cililitan,PGC,Transjakarta Busway Koridor 10,-6.261900000000000,106.865696000000000
+112,2024,Kota Adm. Jakarta Timur,Makasar,Makasar,Pinang Ranti,Gang Gombrang II,-6.291075000000000,106.886337999999995
+113,2024,Kota Adm. Jakarta Utara,Penjaringan,Penjaringan,Pluit,Jalan Pluit Permai,-6.115795000000000,106.790370999999993
+114,2024,Kota Adm. Jakarta Utara,Tanjung Priok,Koja,Plumpang,Jalan Yos Sudarso,-6.128480000000000,106.893699999999995
+115,2024,Kota Adm. Jakarta Pusat,Menteng,Menteng,Bundaran HI Astra,Jalan Mohammad Husni Thamrin,-6.193021000000000,106.822997000000001
+116,2024,Kota Adm. Jakarta Selatan,Kebayoran Lama,Kebayoran Lama,Underpass Lebak Bulus,Jalan Metro Pondok Indah,-6.286761000000000,106.779985999999994
+117,2024,Kota Adm. Jakarta Selatan,Kebayoran Lama,Kebayoran Lama,Pondok Indah,Jalan Metro Pondok Indah,-6.267231000000000,106.783648999999997
+118,2024,Kota Adm. Jakarta Selatan,Kebayoran Lama,Kebayoran Lama,Pondok Pinang,Jalan Pondok Pinang Raya,-6.282170000000000,106.772042999999996
+119,2024,Kota Adm. Jakarta Barat,Kebon Jeruk,Kebon Jeruk,Pos Pengumben,Jalan Panjang Raya,-6.212935000000000,106.772260000000003
+120,2024,Kota Adm. Jakarta Pusat,Cempaka Putih,Cempaka Putih,Simpang Pramuka,Jalan Pramuka,-6.192192000000000,106.874010999999996
+121,2024,Kota Adm. Jakarta Pusat,Cempaka Putih,Cempaka Putih,Pramuka Sari,Jalan Pramuka,-6.192238000000000,106.868576000000004
+122,2024,Kota Adm. Jakarta Timur,Cakung,Rawatrate,PTC Pulo Gadung,Jalan Bekasi Raya,-6.182622000000000,106.915611999999996
+123,2024,Kota Adm. Jakarta Timur,Pulo Gadung,Pulo Gadung,Pulo Gadung,Jalan Bekasi Raya,-6.183325000000000,106.908850000000001
+124,2024,Kota Adm. Jakarta Timur,Cakung,Pulo Gebang,Pulo Gebang,Jalan Tol Lingkar Luar Jakarta,-6.212697000000000,106.952651000000003
+125,2024,Kota Adm. Jakarta Timur,Pulo Gadung,Kelapa Gading,Pulo Mas,Jalan Perintis Kemerdekaan,-6.174736000000000,106.892774000000003
+126,2024,Kota Adm. Jakarta Barat,Cengkareng,Cengkareng,Sumur Bor,Jalan Daan Mogot,-6.153046000000000,106.719288000000006
+127,2024,Kota Adm. Jakarta Timur,Pulo Gadung,Pulo Gadung,Kayu Jati,Jalan Pemuda,-6.193267000000000,106.883668000000000
+128,2024,Kota Adm. Jakarta Utara,Tanjung Priok,Tanjung Priok,Sunter Boulevard Barat,Jalan Yos Sudarso,-6.149650000000000,106.888994999999994
+129,2024,Kota Adm. Jakarta Utara,Tanjung Priok,Tanjung Priok,Sunter Karya,Jalan Danau Sunter Utara,-6.137625000000000,106.870812999999998
+130,2024,Kota Adm. Jakarta Utara,Tanjung Priok,Tanjung Priok,Sunter Kelapa Gading,Simpang Susun Tanjung Priok,-6.142900000000000,106.890760000000000
+131,2024,Kota Adm. Jakarta Selatan,Pesanggrahan,Pesanggrahan,Swadarma ParagonCorp,Jalan Swadarma Raya,-6.237550000000000,106.760648000000003
+132,2024,Kota Adm. Jakarta Barat,Cengkareng,Cengkareng,Taman Kota,Jalan Daan Mogot,-6.157176000000000,106.757892999999996
+133,2024,Kota Adm. Jakarta Selatan,Kebayoran Lama,Kebayoran Lama,Tanah Kusir,Jalan Sultan Iskandar Muda,-6.256997000000000,106.781683999999998
+134,2024,Kota Adm. Jakarta Timur,Ciracas,Susukan,Tanah Merdeka Arah Barat,Jalan Supriyadi,-6.308216000000000,106.873928000000006
+135,2024,Kota Adm. Jakarta Timur,Ciracas,Rambutan,Tanah Merdeka Arah Timur,Jalan Supriyadi,-6.307866000000000,106.873885999999999
+136,2024,Kota Adm. Jakarta Utara,Tanjung Priok,Tanjung Priok,Tanjung Priok,Jalan Taman Stasiun Tanjung Priok,-6.109590000000000,106.882140000000007
+137,2024,Kota Adm. Jakarta Selatan,Tebet,Tebet,Tebet Eco Park Arah Timur,Jalan Letnan Jenderal MT Haryono,-6.243056000000000,106.852074999999999
+138,2024,Kota Adm. Jakarta Selatan,Pancoran,Pancoran,Tebet Eco Park Arah Barat,Jalan Letnan Jenderal MT Haryono,-6.243338000000000,106.852114999999998
+139,2024,Kota Adm. Jakarta Selatan,Setiabudi,Setiabudi,Tegal Parang Arah Timur,Jalan Jenderal Gatot Subroto,-6.239005000000000,106.831056000000004
+140,2024,Kota Adm. Jakarta Selatan,Mampang Prapatan,Mampang Prapatan,Tegal Parang Arah Barat,Jalan Jenderal Gatot Subroto,-6.238863000000000,106.830219000000000
+141,2024,Kota Adm. Jakarta Timur,Matraman,Matraman,Tegalan,Jalan Matraman,-6.203101000000000,106.857150000000004
+142,2024,Kota Adm. Jakarta Selatan,Mampang Prapatan,Mampang Prapatan,Tegal Mampang,Jalan Kapten Tendean,-6.240213000000000,106.831021000000007
+143,2024,Kota Adm. Jakarta Timur,Cakung,Rawatrate,Tipar Cakung,Jalan Raya Bekasi,-6.183387000000000,106.924627999999998
+144,2024,Kota Adm. Jakarta Selatan,Kebayoran Baru,Kebayoran Baru,Pasar Santa,Jalan Robert Wolter Monginsidi,-6.239207000000000,106.807771000000002
+145,2024,Kota Adm. Jakarta Barat,Palmerah,Grogol Petamburan,Tomang Raya,Jalan Tomang Raya,-6.176875000000000,106.800374000000005
+146,2024,Kota Adm. Jakarta Pusat,Gambir,Gambir,Kebon Sirih Arah Utara,Jalan Mohammad Husni Thamrin,-6.182776000000000,106.822799000000003
+147,2024,Kota Adm. Jakarta Timur,Pulo Gadung,Pulo Gadung,Pemuda Merdeka,Jalan Pemuda,-6.192410000000000,106.904886000000005
+148,2024,Kota Adm. Jakarta Timur,Pulo Gadung,Pulo Gadung,Rawamangun,Jalan Pemuda,-6.192931000000000,106.880331999999996
+149,2024,Kota Adm. Jakarta Pusat,Cempaka Putih,Cempaka Putih,Utan Kayu,Jalan Pramuka,-6.192728000000000,106.864570000000001
+150,2024,Kota Adm. Jakarta Timur,Pulo Gadung,Pulo Gadung,Utan Kayu Rawamangun,Jalan Ahmad Yani,-6.197515000000000,106.874036000000004
+151,2024,Kota Adm. Jakarta Selatan,Kebayoran Baru,Kebayoran Baru,Velbak,Jalan Kebayoran Baru,-6.239433000000000,106.785521000000003
+152,2024,Kota Adm. Jakarta Timur,Pulo Gadung,Pulo Gadung,Velodrome,Jalan Pemuda,-6.193468000000000,106.888300000000001
+153,2024,Kota Adm. Jakarta Timur,Cakung,Penggilingan,Walikota Kota Adm. Jakarta Timur,Jalan Doktor Sumarno,-6.212540000000000,106.945367000000005
+154,2024,Kota Adm. Jakarta Utara,Tanjung Priok,Tanjung Priok,Walikota Kota Adm. Jakarta Utara Arah Utara,Jalan Yos Sudarso,-6.118842000000000,106.893135000000001
+155,2024,Kota Adm. Jakarta Utara,Koja,Koja,Walikota Kota Adm. Jakarta Utara Arah Selatan,Jalan Yos Sudarso,-6.118845000000000,106.893467999999999
+156,2024,Kota Adm. Jakarta Selatan,Pancoran,Pancoran,Warung Jati,Jalan Mampang Prapatan Raya,-6.262364000000000,106.829766000000006
+157,2024,Kota Adm. Jakarta Utara,Kelapa Gading,Tanjung Priok,Kodamar,Jalan Yos Sudarso,-6.162043000000000,106.881692999999999
+158,2024,Kota Adm. Jakarta Selatan,Kebayoran Baru,Kebayoran Baru,CSW 2,Jalan Kyai Maja,-6.239861000000000,106.797832999999997
+159,2024,Kota Adm. Jakarta Pusat,Menteng,Menteng,Kebon Sirih Arah Selatan,Jalan Mohammad Husni Thamrin,-6.184195000000000,106.823231699999994
+160,2024,Kota Adm. Jakarta Pusat,Gambir,Gambir,Monumen Nasional,Jalan Medan Merdeka Barat,-6.176248000000000,106.822855000000004
+161,2024,Kota Adm. Jakarta Timur,Pulo Gadung,Pulo Gadung,Pulo Mas Bypass,Jalan Ahmad Yani,-6.176953000000000,106.876002000000000
+162,2024,Kota Adm. Jakarta Selatan,Pasar Minggu,Pasar Minggu,Ragunan,Trans Jakarta Busway Koridor 6,-6.305769000000000,106.819485000000000
+163,2024,Kota Adm. Jakarta Selatan,Kebayoran Baru,Kebayoran Baru,Rawa Barat,Jalan Robert Wolter Monginsidi,-6.238947000000000,106.816243000000000
+164,2024,Kota Adm. Jakarta Barat,Cengkareng,Cengkareng,Rawa Buaya,Jalan Daan Mogot,-6.153916000000000,106.726187999999993
+165,2024,Kota Adm. Jakarta Pusat,Cempaka Putih,Cempaka Putih,Rawa Selatan,Jalan Letnan Jenderal Suprapto,-6.173925000000000,106.858087999999995
+166,2024,Kota Adm. Jakarta Timur,Cakung,Ujung Menteng,Raya Bekasi Pulo Gebang,Jalan Bekasi Raya,-6.187604000000000,106.959868999999998
+167,2024,Kota Adm. Jakarta Timur,Ciracas,Pasar Rebo,Trikora,Jalan Raya Bogor,-6.301956000000000,106.868027999999995
+168,2024,Kota Adm. Jakarta Barat,Grogol Petamburan,Grogol Petamburan,Kali Grogol Arah Selatan,Jalan Latu Menten,-6.160376000000000,106.790972999999994
+169,2024,Kota Adm. Jakarta Selatan,Tebet,Tebet,Pancoran Arah Timur,Jalan MT Haryono,-6.241571000000000,106.838075000000003
+170,2024,Kota Adm. Jakarta Pusat,Cempaka Putih,Cempaka Putih,Sumur Batu,Jalan Letnan Jenderal Suprapto,-6.168676000000000,106.870270000000005
+171,2024,Kota Adm. Jakarta Barat,Grogol Petamburan,Grogol Petamburan,Roxy,Jalan Kyai Tapa,-6.166294000000000,106.796745999999999
+172,2024,Kota Adm. Jakarta Pusat,Gambir,Gambir,Tarakan,Jalan Kyai Caringin,-6.171146000000000,106.810109999999995
+173,2024,Kota Adm. Jakarta Pusat,Senen,Senen,RSPAD,Sal PHB Jalan Kwini,-6.175485000000000,106.836738999999994
+174,2024,Kota Adm. Jakarta Selatan,Pancoran,Pancoran,Pancoran Arah Barat,Jalan Jenderal Gatot Subroto,-6.241672000000000,106.837199999999996
+175,2024,Kota Adm. Jakarta Barat,Palmerah,Palmerah,Kota Bambu Arah Utara,Jalan Letnan Jenderal Siswondo Parman,-6.184489000000000,106.796743000000006
+176,2024,Kota Adm. Jakarta Pusat,Senen,Senen,Paseban,Jalan Salemba Raya,-6.196781000000000,106.851016000000001
+177,2024,Kota Adm. Jakarta Pusat,Senen,Senen,Salemba,Jalan Salemba Raya,-6.193373000000000,106.848911999999999
+178,2024,Kota Adm. Jakarta Pusat,Menteng,Menteng,MH Thamrin,Jalan Mohammad Husni Thamrin,-6.188149000000000,106.822986999999998
+179,2024,Kota Adm. Jakarta Barat,Palmerah,Palmerah,Kota Bambu Arah Selatan,Jalan S Parman,-6.185221000000000,106.797088000000002
+180,2024,Kota Adm. Jakarta Barat,Grogol Petamburan,Grogol Petamburan,Tanjung Duren Arah Barat,Jalan Letnan Jenderal S. Parman,-6.175587000000000,106.792227999999994
+181,2024,Kota Adm. Jakarta Barat,Grogol Petamburan,Grogol Petamburan,Tanjung Duren Arah Timur,Jalan Letnan Jenderal S. Parman,-6.175799000000000,106.793075000000002
+182,2024,Kota Adm. Jakarta Pusat,Senen,Senen,Pasar Senen,Jalan Letnan Jenderal Suprapto,-6.178211000000000,106.842505000000003
+183,2024,Kota Adm. Jakarta Pusat,Senen,Senen,Senen Sentral,Jalan Kramat Raya,-6.178287000000000,106.841972999999996
+184,2024,Kota Adm. Jakarta Selatan,Kebayoran Lama,Kebayoran Lama,Seskoal,Jalan Ciledug Raya,-6.238064000000000,106.771204999999995
+185,2024,Kota Adm. Jakarta Selatan,Setiabudi,Setiabudi,Setiabudi,Jalan Hajjah R. Rasuna Said,-6.209189000000000,106.830236999999997
+186,2024,Kota Adm. Jakarta Selatan,Kebayoran Lama,Kebayoran Lama,Simprug,Jalan Teuku Nyak Arief,-6.233935000000000,106.786471000000006
+187,2024,Kota Adm. Jakarta Timur,Matraman,Matraman,Kesatrian,Jalan Matraman,-6.208533000000000,106.859289000000004
+188,2024,Kota Adm. Jakarta Pusat,Tanah Abang,Tanah Abang,Gerbang Pemuda Arah Barat,Jalan Jenderal Gatot Subroto,-6.213906000000000,106.808407000000003
+189,2024,Kota Adm. Jakarta Pusat,Tanah Abang,Tanah Abang,Gerbang Pemuda Arah Timur,Jalan Gatot Subroto,-6.214145000000000,106.809004000000002
+190,2024,Kota Adm. Jakarta Barat,Palmerah,Palmerah,Kemanggisan Arah Utara,Jalan Letnan Jenderal Siswondo Parman,-6.189906000000000,106.796941000000004
+191,2024,Kota Adm. Jakarta Selatan,Pasar Minggu,Pasar Minggu,Jati Barat,Jalan Buncit Raya,-6.290967000000000,106.823649000000003
+192,2024,Kota Adm. Jakarta Utara,Tanjung Priok,Tanjung Priok,Sunter Utara,Jalan Danau Sunter Utara,-6.139776000000000,106.859201999999996
+193,2024,Kota Adm. Jakarta Barat,Palmerah,Palmerah,Kemanggisan Arah Selatan,Jalan S Parman,-6.189781000000000,106.797258999999997
+194,2024,Kota Adm. Jakarta Timur,Jatinegara,Jatinegara,Stasiun Jatinegara,Jalan Bekasi Barat Raya,-6.215601000000000,106.868050999999994
+195,2024,Kota Adm. Jakarta Timur,Duren Sawit,Duren Sawit,Stasiun Klender,Jalan I Gusti Ngurah Rai,-6.213532000000000,106.898656000000003
+196,2024,Kota Adm. Jakarta Selatan,Tebet,Tebet,Stasiun Tebet,Jalan K. Haji Abdul Syafi'ie,-6.225503000000000,106.858138999999994
+197,2024,Kota Adm. Jakarta Pusat,Gambir,Gambir,Transjakarta Tanah Abang 2,Jalan Jatibaru Raya,-6.183885000000000,106.811648000000005
+198,2024,Kota Adm. Jakarta Pusat,Tanah Abang,Tanah Abang,Ps. Palmerah,Jalan Tentara Pelajar,-6.207817000000000,106.796953999999999
+199,2024,Kota Adm. Jakarta Selatan,Tebet,Tebet,Plaza St. Manggarai,Jalan Manggarai Utara I,-6.210225000000000,106.850989999999996
+200,2024,Kota Adm. Jakarta Pusat,Tanah Abang,Tanah Abang,St. Palmerah,Jalan Tentara Pelajar,-6.208908000000000,106.797060000000002
+201,2024,Kota Adm. Jakarta Selatan,Pesanggrahan,Pesanggrahan,Petukangan Utara,Jalan Ciledug Raya,-6.236466000000000,106.747860000000003
+202,2024,Kota Adm. Jakarta Timur,Pulo Gadung,Pulo Gadung,Pisangan,Jalan Ahmad Yani,-6.205526000000000,106.873774999999995
+203,2024,Kota Adm. Jakarta Utara,Pademangan,Pademangan,Ancol,Jalan Karang Bolong Hailai,-6.127563000000000,106.830391000000006
+204,2024,Kota Adm. Jakarta Timur,Pulo Gadung,Kelapa Gading,Perintis Kemerdekaan,Jalan Perintis Kemerdekaan,-6.171797000000000,106.888799000000006
+205,2024,Kota Adm. Jakarta Pusat,Senen,Senen,Senen Raya,Jalan Haji Imam Sapi'ie,-6.176251000000000,106.840232000000000
+206,2024,Kota Adm. Jakarta Pusat,Gambir,Gambir,Balai Kota,Jalan Medan Merdeka Selatan,-6.180488000000000,106.826455999999993
+207,2024,Kota Adm. Jakarta Barat,Tambora,Tambora,Bandengan,Jalan Bandengan Selatan,-6.136318000000000,106.803471999999999
+208,2024,Kota Adm. Jakarta Selatan,Kebayoran Baru,Kebayoran Baru,Blok M,Jalan Palatehan,-6.243312000000000,106.801750999999996
+209,2024,Kota Adm. Jakarta Timur,Pulo Gadung,Kelapa Gading,Bermis,Jalan Perintis Kemerdekaan,-6.178203000000000,106.898594000000003
+210,2024,Kota Adm. Jakarta Timur,Jatinegara,Jatinegara,Bidara Cina,Jalan Otto Iskandar Dinata,-6.229724000000000,106.867208000000005
+211,2024,Kota Adm. Jakarta Timur,Kramat Jati,Cililitan,Cawang Cililitan,Jalan Mayor Jenderal Sutoyo,-6.257751000000000,106.869997999999995
+212,2024,Kota Adm. Jakarta Selatan,Kebayoran Baru,Kebayoran Baru,ASEAN,Jalan Trunojoyo,-6.239889000000000,106.798972000000006
+213,2024,Kota Adm. Jakarta Timur,Jatinegara,Cawang,BNN,Jalan Letnan Jenderal MT Haryono,-6.246510000000000,106.873180000000005
+214,2024,Kota Adm. Jakarta Timur,Duren Sawit,Duren Sawit,Buaran,Jalan I Gusti Ngurah Rai,-6.215132000000000,106.917683999999994
+215,2024,Kota Adm. Jakarta Pusat,Kemayoran,Sawah Besar,Lapangan Banteng,Jalan Gunung Sahari Raya,-6.166063000000000,106.839062999999996
+216,2024,Kota Adm. Jakarta Selatan,Pancoran,Pancoran,Buncit Indah,Jalan Buncit Raya,-6.274333000000000,106.830292999999998
+217,2024,Kota Adm. Jakarta Selatan,Kebayoran Baru,Kebayoran Baru,Kejaksaan Agung,Jalan Panglima Polim Raya,-6.240500000000000,106.798444000000003
+218,2024,Kota Adm. Jakarta Selatan,Kebayoran Baru,Kebayoran Baru,Masjid Agung,Jalan Sisingamangaraja,-6.236483000000000,106.798446999999996
+219,2024,Kota Adm. Jakarta Timur,Cakung,Kayu Tinggi,Cakung Cilincing,Jalan Bekasi Raya,-6.184223000000000,106.942312000000001
+220,2024,Kota Adm. Jakarta Timur,Cakung,Cakung Barat,Cakung United Tractors,Jalan Raya Bekasi,-6.183240000000000,106.929980000000000
+221,2024,Kota Adm. Jakarta Selatan,Setiabudi,Kebayoran Baru,Semanggi,Jalan Gatot Subroto,-6.221110000000000,106.813540000000003
+222,2024,Kota Adm. Jakarta Timur,Jatinegara,Jatinegara,Cawang Baru,Jalan Otto Iskandar Dinata,-6.243607000000000,106.868763000000001
+223,2024,Kota Adm. Jakarta Timur,Jatinegara,Jatinegara,Simpang Cawang,Jalan Cawang Underpass,-6.244771000000000,106.875983000000005
+224,2024,Kota Adm. Jakarta Timur,Kramat Jati,Makasar,Cawang Sentral,Jalan Mayor Jenderal Sutoyo,-6.250309000000000,106.873603000000003
+225,2024,Kota Adm. Jakarta Utara,Kelapa Gading,Kelapa Gading,Simpang Cempaka,Jalan Yos Sudarso,-6.165888000000000,106.879198000000002
+226,2024,Kota Adm. Jakarta Timur,Pulo Gadung,Cempaka Putih,Cempaka Putih,Jalan Ahmad Yani,-6.174207000000000,106.876423000000003
+227,2024,Kota Adm. Jakarta Pusat,Cempaka Putih,Cempaka Putih,Cempaka Baru,Jalan Letnan Jenderal Suprapto,-6.170398000000000,106.866590000000002
+228,2024,Kota Adm. Jakarta Pusat,Cempaka Putih,Cempaka Putih,Cempaka Mas,Jalan Letnan Jenderal Suprapto,-6.166584000000000,106.875911000000002
+229,2024,Kota Adm. Jakarta Pusat,Tanah Abang,Tanah Abang,Petamburan,Jalan Gatot Subroto,-6.202030000000000,106.799890000000005
+230,2024,Kota Adm. Jakarta Timur,Jatinegara,Jatinegara,Flyover Jatinegara,Jalan Ahmad Yani,-6.215139000000000,106.874151999999995
+231,2024,Kota Adm. Jakarta Timur,Jatinegara,Jatinegara,Cipinang,Jalan I Gusti Ngurah Rai,-6.213664000000000,106.889864000000003
+232,2024,Kota Adm. Jakarta Timur,Jatinegara,Jatinegara,Kebon Nanas,Jalan DI Panjaitan,-6.231659000000000,106.876366000000004
+233,2024,Kota Adm. Jakarta Selatan,Kebayoran Lama,Kebayoran Lama,Cipulir,Jalan Ciledug Raya,-6.237818000000000,106.765411000000000
+234,2024,Kota Adm. Jakarta Selatan,Kebayoran Baru,Kebayoran Baru,CSW 1,Jalan Kyai Maja,-6.239940000000000,106.798434000000000
+235,2024,Kota Adm. Jakarta Utara,Tanjung Priok,Tanjung Priok,Danau Agung,Jalan Danau Sunter Barat,-6.146869000000000,106.858053999999996
+236,2024,Kota Adm. Jakarta Selatan,Setiabudi,Setiabudi,Kuningan,Jalan Hajjah R. Rasuna Said,-6.228794000000000,106.833205000000007
+237,2024,Kota Adm. Jakarta Selatan,Pasar Minggu,Pasar Minggu,Simpang Ragunan Ar-Raudhah,Jalan RM Harsono,-6.294641000000000,106.822125000000000
+238,2024,Kota Adm. Jakarta Pusat,Senen,Senen,Pejambon,Jalan Abdulrahman Saleh,-6.173503000000000,106.834716999999998
+239,2024,Kota Adm. Jakarta Barat,Cengkareng,Cengkareng,Pulo Nangka,Jalan Daan Mogot,-6.154634000000000,106.738096999999996
+240,2024,Kota Adm. Jakarta Pusat,Tanah Abang,Kebayoran Baru,Bundaran Senayan,Jalan Jenderal Sudirman,-6.227869000000000,106.800939000000000
+241,2024,Kota Adm. Jakarta Selatan,Mampang Prapatan,Mampang Prapatan,Duren Tiga,Jalan Mampang Prapatan Raya,-6.252377000000000,106.826971999999998
+242,2024,Kota Adm. Jakarta Barat,Kebon Jeruk,Kebon Jeruk,Duri Kepa,Jalan Panjang Raya,-6.185266000000000,106.768417999999997
+243,2024,Kota Adm. Jakarta Utara,Tanjung Priok,Tanjung Priok,Mambo,Jalan Enggano,-6.110150000000000,106.892419000000004
+244,2024,Kota Adm. Jakarta Pusat,Tanah Abang,Tanah Abang,Explorer Tanah Abang,Jalan Jatibaru,-6.184305000000000,106.811580000000006
+245,2024,Kota Adm. Jakarta Timur,Duren Sawit,Klender,Klender,Jalan I Gusti Ngurah Rai,-6.213596000000000,106.903063000000003
+246,2024,Kota Adm. Jakarta Timur,Duren Sawit,Duren Sawit,Simpang Buaran,Jalan I Gusti Ngurah Rai,-6.215982000000000,106.924383000000006
+247,2024,Kota Adm. Jakarta Timur,Ciracas,Susukan,Flyover Raya Bogor,Jalan Supriyadi,-6.306500000000000,106.865700000000004
+248,2024,Kota Adm. Jakarta Pusat,Johar Baru,Johar Baru,Galur,Jalan Letnan Jenderal Suprapto,-6.174388000000000,106.854844999999997
+249,2024,Kota Adm. Jakarta Pusat,Gambir,Gambir,Gambir,Jalan Medan Merdeka Timur,-6.174612000000000,106.830402000000007
+250,2024,Kota Adm. Jakarta Pusat,Gambir,Gambir,Gambir 2,Jalan Medan Merdeka Selatan,-6.178929000000000,106.831062000000003
+251,2024,Kota Adm. Jakarta Timur,Makasar,Makasar,Makasar,Jalan Pondok Gede,-6.290154000000000,106.881163999999998
+252,2024,Kota Adm. Jakarta Timur,Jatinegara,Jatinegara,Ciliwung Arah Timur,Jalan MT Haryono,-6.243012000000000,106.863536999999994
+253,2024,Kota Adm. Jakarta Timur,Kramat Jati,Cawang,Ciliwung Arah Barat,Jalan Letnan Jenderal MT Haryono,-6.243292000000000,106.863589000000005
+254,2024,Kota Adm. Jakarta Selatan,Tebet,Pancoran,Cikoko Arah Timur,Jalan MT Haryono,-6.243028000000000,106.858143999999996
+255,2024,Kota Adm. Jakarta Selatan,Pancoran,Pancoran,Cikoko Arah Barat,Jalan Letnan Jenderal MT Haryono,-6.243359000000000,106.858147000000002
+256,2024,Kota Adm. Jakarta Barat,Tambora,Tambora,Gedong Panjang,Jalan Gedong Panjang,-6.132617000000000,106.805957000000006
+257,2024,Kota Adm. Jakarta Timur,Jatinegara,Jatinegara,Gelanggang Remaja,Jalan Otto Iskandar Dinata,-6.235445000000000,106.867953999999997
+258,2024,Kota Adm. Jakarta Pusat,Tanah Abang,Tanah Abang,Senayan Bank DKI,Jalan Jenderal Sudirman,-6.224217000000000,106.805795000000003
