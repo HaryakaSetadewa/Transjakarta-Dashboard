@@ -50,7 +50,7 @@ Hasil output spasial dari ArcGIS digabungkan dengan data administrasi kelurahan 
 **3. Dashboard Development**
 Dua halaman dashboard dibangun dengan pendekatan *clean design* — mengutamakan keterbacaan data tanpa elemen visual yang berlebihan.
 
-\---
+---
 
 ## Dashboard Pages
 
@@ -58,7 +58,8 @@ Dua halaman dashboard dibangun dengan pendekatan *clean design* — mengutamakan
 
 Memberikan gambaran makro distribusi layanan Transjakarta di seluruh Jakarta.
 
-![Page 1 Overview](screenshots/page1\_overview.png)
+<img width="1274" height="715" alt="image" src="https://github.com/user-attachments/assets/89f20627-29bb-4629-9e02-51ee915c3cb1" />
+
 
 **Summary**
 Halaman ini berfungsi sebagai *service pulse* jaringan Transjakarta, menjawab pertanyaan mendasar: apakah distribusi 258 halte yang ada sudah mencerminkan pemerataan layanan, ataukah masih terpusat di area tertentu saja?
@@ -83,7 +84,8 @@ Halaman ini berfungsi sebagai *service pulse* jaringan Transjakarta, menjawab pe
 
 Mengukur aksesibilitas *real* warga berdasarkan jarak berjalan kaki ke halte terdekat.
 
-!\[Page 2 Accessibility](screenshots/page2\_accessibility.png)
+<img width="1278" height="719" alt="image" src="https://github.com/user-attachments/assets/2d0b66fc-a232-4ccc-86a5-61d90bddfce3" />
+
 
 **Summary**
 Coverage rate menunjukkan seberapa luas area yang terlayani, tetapi tidak menjawab pertanyaan yang lebih penting: *seberapa jauh warga harus berjalan untuk sampai ke halte?* Halaman ini hadir untuk menjawab gap tersebut.
